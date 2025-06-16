@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: literalura
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/db-literalura
+    username: postgres
+    password: postgres
