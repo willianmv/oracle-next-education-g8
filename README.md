@@ -1,4 +1,4 @@
-# Oracle Next Education (ONE) - Fase G8 - Trilha Back-End 🚀
+# Oracle Next Education (ONE) - G8 - Trilha Back-End 🚀
 
 Este repositório reúne os projetos desenvolvidos durante a **Fase G8** do programa **Oracle Next Education (ONE)** em parceria com a **Alura**, com foco na **trilha de Back-End**.
 
@@ -10,9 +10,9 @@ Os participantes têm acesso gratuito a formações completas nas áreas de Back
 
 ---
 
-## 🧩 Fase G8 - Trilha Back-End
+## 🧩 Trilha Back-End
 
-Na **Fase G8**, a trilha de **Back-End** tem como foco:
+A trilha de **Back-End** tem como foco:
 
 - Fundamentos da programação orientada a objetos (POO)
 - Acesso a banco de dados com Spring Data JPA
@@ -49,4 +49,3 @@ Consolidar os conhecimentos adquiridos durante a formação, desenvolvendo aplic
 
 ---
 
-**#OracleNextEducation #ONE #Alura #BackEnd #Java #FaseG8**
